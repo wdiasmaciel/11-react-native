@@ -57,3 +57,8 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
 });
+
+/*
+ * 1) useLocalSearchParams(): hook que lê de forma reativa os 
+ *    parâmetros da URL atual: /detalhes?id=123&nome=Notebook%20Gamer
+ */
