@@ -43,3 +43,13 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
 });
+
+
+/*
+ * 1) pathname: define a rota em formato de string (URL do 
+ *    arquivo dentro da estrutura de diretórios /app).
+ * 
+ * 2) params: um objeto chave-valor. O Expo Router transforma 
+ *    esses valores automaticamente em strings de consulta (query 
+ *    string / query parameters).
+ */
